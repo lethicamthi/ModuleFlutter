@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1079301995635",
+    "firebase_url": "https://chatmodule-63786.firebaseio.com",
+    "project_id": "chatmodule-63786",
+    "storage_bucket": "chatmodule-63786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079301995635:android:80bc2d28fca1921b467e06",
+        "android_client_info": {
+          "package_name": "com.yuukikun.loginmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079301995635-2l94tluteshnlm4j85p89h2qkq422bgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQrS2a5F8lxdbQM4MvOUdMeRxZlQTlyUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079301995635-2l94tluteshnlm4j85p89h2qkq422bgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
